@@ -25,7 +25,7 @@ I am a software engineer focused on developing web applications with Web3 featur
 - The Graph, Alchemy
 
 ### Backend
-- Node.js, NestJS, Express.js
+- Node.js, NestJS, Express.js, Rust (axum)
 - REST APIs, GraphQL
 - PostgreSQL, MongoDB, SQLite
 - Serverless architecture
