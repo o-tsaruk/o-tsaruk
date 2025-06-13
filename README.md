@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 I am a software engineer focused on developing web applications with Web3 features integration. I have hands-on experience in smart contract development across multiple blockchains.
 
