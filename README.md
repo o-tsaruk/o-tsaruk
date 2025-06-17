@@ -4,14 +4,13 @@ I am a software engineer focused on developing web applications with Web3 featur
 
 My main stack includes React.js for front-end, Solidity or Rust for blockchain development, and Express.js or axum for back-end services.
 
-
 ## Areas of Experience
 
 - Applications for assets tokenization;
 - Smart contract managers and callers;
-- Token standard library;
+- On-chain development for DeFi use cases;
 - Blockchain infrastructure tools;
-- Company websites and technical documentation portals.
+- Websites for products, tools, companies, and developer platforms.
 
 ## Open Source
 
