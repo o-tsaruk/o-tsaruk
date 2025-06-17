@@ -1,6 +1,9 @@
 ## About Me
 
-I am a software engineer focused on developing web applications with Web3 features integration. I have hands-on experience in smart contract development across multiple blockchains.
+I am a software engineer focused on developing web applications with Web3 features integration. I have hands-on experience in smart contract development across multiple blockchains. 
+
+My main stack includes React.js for front-end, Solidity or Rust for blockchain development, and Express.js or axum for back-end services.
+
 
 ## Areas of Experience
 
@@ -10,22 +13,10 @@ I am a software engineer focused on developing web applications with Web3 featur
 - Blockchain infrastructure tools;
 - Company websites and technical documentation portals.
 
-## Tech Stack
+## Open Source
 
-### Frontend
-- JavaScript, TypeScript
-- React.js, Next.js
-- Zustand, Redux
-- SCSS, Tailwind CSS, CSS-in-JS
+I've worked on several open source projects as part of engineering teams building Polkadot infrastructure.
 
-### Blockchain
-- Solidity, Rust, Cairo
-- Foundry, Hardhat, Anchor
-- Ethers.js, Wagmi
-- The Graph, Alchemy
-
-### Backend
-- Node.js, NestJS, Express.js, Rust (axum)
-- REST APIs, GraphQL
-- PostgreSQL, MongoDB, SQLite
-- Serverless architecture
+- [OpenBrush](https://github.com/Supercolony-net/openbrush-contracts) - library for smart contract development;
+- [Sol2Ink](https://github.com/Brushfam/sol2ink) - tool for migration from Solidity to Ink!;
+- [LearnPage](https://learn.brushfam.io/) - technical documentation portal for some Polkadot tools.
